@@ -1,0 +1,18 @@
+X-Apparently-To: goukakaizinn@yahoo.co.jp via 114.111.98.190; Sun, 05 Jun 2011 14:15:58 +0900
+X-Originating-IP: [123.108.239.43]
+Received-SPF: pass (mmrts031p01c.softbank.ne.jp: domain of rhodesia.kill_jing@softbank.ne.jp designates 123.108.239.43 as permitted sender) receiver=mmrts031p01c.softbank.ne.jp; client-ip=123.108.239.43; envelope-from=rhodesia.kill_jing@softbank.ne.jp;
+Authentication-Results: mta577.mail.kks.yahoo.co.jp  from=softbank.ne.jp; domainkeys=neutral (no sig)
+Received: from 123.108.239.43  (HELO mmrts031p01c.softbank.ne.jp) (123.108.239.43)
+  by mta577.mail.kks.yahoo.co.jp with SMTP; Sun, 05 Jun 2011 14:15:58 +0900
+Subject: Re:
+Mime-Version: 1.0
+Content-Type:text/plain;charset=ISO-2022-JP
+Content-Transfer-Encoding:7bit
+Date: Sun, 05 Jun 2011 14:15:57 +0900
+Message-ID: <20110605141557276131.7c72@0016E68C26A6>
+From: <rhodesia.kill_jing@softbank.ne.jp>
+To: goukakaizinn@yahoo.co.jp
+Sender:rhodesia.kill_jing@softbank.ne.jp
+X-Priority: 3
+
+^[$B%(%9%+%l!<%?!<B&$N@J$K:B$C$F$^$9$h!A^[(B
